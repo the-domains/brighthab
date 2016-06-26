@@ -1,0 +1,14 @@
+layout_spectrum: 0.3029114156961441
+typography_spectrum: 0.4206448800396174
+color:
+  brandStrength: 0.20518840802833438
+  lightness: 0.6001431178301573
+  saturation: 0.3674234342761338
+  rhythmicContrast: 0.6824677623808384
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Brighthab
